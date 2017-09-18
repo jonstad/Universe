@@ -12,7 +12,11 @@ namespace Universe
         public int realmass;
         public GStar()
         {
-            realmass = _massmultiplier * BaseMass;
+            
+        }
+        public int GetsSize()
+        {
+            return _massmultiplier * BaseMass;
         }
     }
     enum SpectralClassification { O,B,A,F,G,K,M };  

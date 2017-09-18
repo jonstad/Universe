@@ -8,20 +8,20 @@ namespace Universe
 {
     class SolarSystem
     {
-        List<Star> Start = new List<Star>();
-        List<Planet> Planets = new List<Planet>();
+        public List<Star> Stars = new List<Star>();
+        public List<Planet> Planets = new List<Planet>();
 
         public string Name { get; set; }
 
         public SolarSystem()
         {
-            Star mainstar = new Star();
+            GStar mainstar = new GStar();
             mainstar.SpectralC = SpectralClassification.G;
             mainstar.BaseMass = 10000;
             mainstar.Name = "Sun";
+            Stars.Add(mainstar);
 
-
-
+            
 
         }
         //Sun(s)(OBAFGKM)

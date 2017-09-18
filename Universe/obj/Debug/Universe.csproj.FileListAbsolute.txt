@@ -6,3 +6,4 @@ C:\Users\tej\Source\Repos\Universe\Universe\obj\Debug\Universe.Properties.Resour
 C:\Users\tej\Source\Repos\Universe\Universe\obj\Debug\Universe.csproj.GenerateResource.Cache
 C:\Users\tej\Source\Repos\Universe\Universe\obj\Debug\Universe.exe
 C:\Users\tej\Source\Repos\Universe\Universe\obj\Debug\Universe.pdb
+C:\Users\tej\Source\Repos\Universe\Universe\obj\Debug\Universe.Form1.resources
