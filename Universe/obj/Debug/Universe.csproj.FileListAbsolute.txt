@@ -1,0 +1,8 @@
+C:\Users\tej\Source\Repos\Universe\Universe\bin\Debug\Universe.exe.config
+C:\Users\tej\Source\Repos\Universe\Universe\bin\Debug\Universe.exe
+C:\Users\tej\Source\Repos\Universe\Universe\bin\Debug\Universe.pdb
+C:\Users\tej\Source\Repos\Universe\Universe\obj\Debug\Universe.csprojResolveAssemblyReference.cache
+C:\Users\tej\Source\Repos\Universe\Universe\obj\Debug\Universe.Properties.Resources.resources
+C:\Users\tej\Source\Repos\Universe\Universe\obj\Debug\Universe.csproj.GenerateResource.Cache
+C:\Users\tej\Source\Repos\Universe\Universe\obj\Debug\Universe.exe
+C:\Users\tej\Source\Repos\Universe\Universe\obj\Debug\Universe.pdb
